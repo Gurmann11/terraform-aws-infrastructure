@@ -129,20 +129,14 @@ terraform destroy
 
 # Type 'yes' when prompted
 ```
-
-## 📸 Project Screenshots
-
 ### 1. Terraform Apply Success
-![Terraform Apply](screenshots/terraform-apply.png)
-*EC2 instance successfully created with Terraform*
+<img src="screenshots/terraform-apply.png" width="600">
 
-### 2. AWS EC2 Running Instance
-![EC2 Instance](screenshots/ec2-instance.png)
-*Infrastructure provisioned and running in AWS*
+### 2. AWS EC2 Running Instance  
+<img src="screenshots/ec2-instance.png" width="600">
 
 ### 3. Flask App Live on AWS
-![Flask App](screenshots/flask-app-live.png)
-*Application successfully deployed and accessible*
+<img src="screenshots/flask-app-live.png" width="600">
 
 ## 🎯 Key Learnings
 
